@@ -1,0 +1,48 @@
+name: Refresh Feeds
+
+on:
+  schedule:
+    # 三个时段错开分钟，避免整点固定时刻
+    - cron: '7 5 * * *'    # 北京时间 13:07
+    - cron: '23 11 * * *'  # 北京时间 19:23
+    - cron: '41 23 * * *'  # 北京时间次日 07:41
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-feeds
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install Python
+        run: uv python install
+
+      - name: Sync dependencies
+        run: uv sync --frozen
+
+      - name: Stagger start
+        run: sleep $((RANDOM % 300))
+
+      - name: Generate feeds
+        run: uv run econ-calendar
+
+      - name: Commit feeds
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feeds
+          git commit -m "chore: refresh feeds $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to commit"
+          git push

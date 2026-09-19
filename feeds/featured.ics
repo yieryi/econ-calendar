@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月5日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1.625 万人
+DTSTART:20260922T000000Z
+SUMMARY:20:15 ★★★ [黄金] 美国至9月5日当周ADP就业人数周度变动(万人)
+UID:data-1184720@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月18日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -64 万桶
+DTSTART:20260923T000000Z
+SUMMARY:22:30 ★★★★ [原油] 美国至9月18日当周EIA原油库存(万桶)
+UID:data-1184755@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至9月19日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 19.6 万人
+DTSTART:20260924T000000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国至9月19日当周初请失业金人数(万人)
+UID:data-1184791@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国9月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 3.8 万人
+DTSTART:20260930T000000Z
+SUMMARY:20:15 ★★★★ [黄金] 美国9月ADP就业人数(万人)
+UID:data-1184913@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国8月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 3.30 %
+DTSTART:20260930T001000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国8月核心PCE物价指数年率
+UID:data-1184921@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国第二季度实际个人消费支出季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 3.40 %
+DTSTART:20260930T002000Z
+SUMMARY:20:30 ★★★ [黄金] 美国第二季度实际个人消费支出季率初值
+UID:data-1184923@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月25日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20260930T003000Z
+SUMMARY:22:30 ★★★★ [原油] 美国至9月25日当周EIA原油库存(万桶)
+UID:data-1184927@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至9月26日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261001T000000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国至9月26日当周初请失业金人数(万人)
+UID:data-1145150@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 22:00\n项目: 美国9月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 54.6 --
+DTSTART:20261001T001000Z
+SUMMARY:22:00 ★★★★ [黄金] 美国9月ISM制造业PMI
+UID:data-1145155@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 4.10 %
+DTSTART:20261002T000000Z
+SUMMARY:20:30 ★★★★★ [金银] 美国9月失业率
+UID:data-1145165@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 16.2 万人
+DTSTART:20261002T001000Z
+SUMMARY:20:30 ★★★★★ [金银] 美国9月季调后非农就业人口(万人)
+UID:data-1145168@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月19日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261006T000000Z
+SUMMARY:20:15 ★★★ [黄金] 美国至9月19日当周ADP就业人数周度变动(万人)
+UID:data-1186712@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月2日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261007T000000Z
+SUMMARY:22:30 ★★★★ [原油] 美国至10月2日当周EIA原油库存(万桶)
+UID:data-1145240@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【财经大事】\n真实时间: 02:00\n内容: 美联储公布货币政策会议纪要。\n国家: 美国\n人物: 美联储\n重要性: 4星
+DTSTART:20261008T000000Z
+SUMMARY:02:00 [大事] ★★★★ 美国 美联储公布货币政策会议纪要。
+UID:event-1148309@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至10月3日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261008T001000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国至10月3日当周初请失业金人数(万人)
+UID:data-1145256@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月26日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261013T000000Z
+SUMMARY:20:15 ★★★ [黄金] 美国至9月26日当周ADP就业人数周度变动(万人)
+UID:data-1186770@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月季调后CPI月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 0.40 %
+DTSTART:20261014T000000Z
+SUMMARY:20:30 ★★★★ [金银] 美国9月季调后CPI月率
+UID:data-1145276@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月未季调CPI年率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 3.40 %
+DTSTART:20261014T001000Z
+SUMMARY:20:30 ★★★★★ [金银] 美国9月未季调CPI年率
+UID:data-1145278@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261015T000000Z
+SUMMARY:00:00 ★★★★ [大宗商品] 中国9月全社会用电量同比
+UID:data-1185427@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至10月10日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261015T001000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国至10月10日当周初请失业金人数(万人)
+UID:data-1145303@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月零售销售月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 1.20 %
+DTSTART:20261015T002000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国9月零售销售月率
+UID:data-1145310@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月9日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261016T000000Z
+SUMMARY:00:00 ★★★★ [原油] 美国至10月9日当周EIA原油库存(万桶)
+UID:data-1145314@econ-calendar
+END:VEVENT
+END:VCALENDAR
