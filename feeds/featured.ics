@@ -2,12 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国8月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 1.7 %
-DTSTART:20260920T000000Z
-SUMMARY:00:00 ★★★★ [大宗商品] 中国8月全社会用电量同比
-UID:data-1185424@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月5日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1.625 万人
 DTSTART:20260922T000000Z
 SUMMARY:20:15 ★★★ [黄金] 美国至9月5日当周ADP就业人数周度变动(万人)
@@ -20,7 +14,7 @@ SUMMARY:22:30 ★★★★ [原油] 美国至9月18日当周EIA原油库存(万�
 UID:data-1184755@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至9月19日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 19.6 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至9月19日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 20.3\n前值: 19.6 万人
 DTSTART:20260924T000000Z
 SUMMARY:20:30 ★★★★ [黄金] 美国至9月19日当周初请失业金人数(万人)
 UID:data-1184791@econ-calendar
@@ -116,7 +110,7 @@ SUMMARY:20:30 ★★★★★ [金银] 美国9月未季调CPI年率
 UID:data-1145278@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- %
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 1.7 %
 DTSTART:20261015T000000Z
 SUMMARY:00:00 ★★★★ [大宗商品] 中国9月全社会用电量同比
 UID:data-1185427@econ-calendar
@@ -138,5 +132,11 @@ DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月9日�
 DTSTART:20261016T000000Z
 SUMMARY:00:00 ★★★★ [原油] 美国至10月9日当周EIA原油库存(万桶)
 UID:data-1145314@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至10月3日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261020T000000Z
+SUMMARY:20:15 ★★★ [黄金] 美国至10月3日当周ADP就业人数周度变动(万人)
+UID:data-1186852@econ-calendar
 END:VEVENT
 END:VCALENDAR
