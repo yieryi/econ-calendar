@@ -139,4 +139,10 @@ DTSTART:20261020T000000Z
 SUMMARY:20:15 ★★★ [黄金] 美国至10月3日当周ADP就业人数周度变动(万人)
 UID:data-1186852@econ-calendar
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月16日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261021T000000Z
+SUMMARY:22:30 ★★★★ [原油] 美国至10月16日当周EIA原油库存(万桶)
+UID:data-1145366@econ-calendar
+END:VEVENT
 END:VCALENDAR
