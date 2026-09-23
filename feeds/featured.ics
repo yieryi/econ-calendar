@@ -2,13 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月5日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1.625 万人
-DTSTART:20260922T000000Z
-SUMMARY:20:15 ★★★ [黄金] 美国至9月5日当周ADP就业人数周度变动(万人)
-UID:data-1184720@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月18日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -64 万桶
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月18日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: -56.3\n前值: -64 万桶
 DTSTART:20260923T000000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至9月18日当周EIA原油库存(万桶)
 UID:data-1184755@econ-calendar
@@ -68,7 +62,7 @@ SUMMARY:20:30 ★★★★★ [金银] 美国9月季调后非农就业人口(万
 UID:data-1145168@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月19日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月19日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 2 万人
 DTSTART:20261006T000000Z
 SUMMARY:20:15 ★★★ [黄金] 美国至9月19日当周ADP就业人数周度变动(万人)
 UID:data-1186712@econ-calendar
@@ -144,5 +138,11 @@ DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月16日
 DTSTART:20261021T000000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至10月16日当周EIA原油库存(万桶)
 UID:data-1145366@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至10月17日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261022T000000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国至10月17日当周初请失业金人数(万人)
+UID:data-1145375@econ-calendar
 END:VEVENT
 END:VCALENDAR
