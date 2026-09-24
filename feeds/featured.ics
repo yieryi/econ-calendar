@@ -2,13 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月18日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: -56.3\n前值: -64 万桶
-DTSTART:20260923T000000Z
-SUMMARY:22:30 ★★★★ [原油] 美国至9月18日当周EIA原油库存(万桶)
-UID:data-1184755@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至9月19日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 20.3\n前值: 19.6 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至9月19日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 20.1\n前值: 19.6 万人
 DTSTART:20260924T000000Z
 SUMMARY:20:30 ★★★★ [黄金] 美国至9月19日当周初请失业金人数(万人)
 UID:data-1184791@econ-calendar
@@ -32,7 +26,7 @@ SUMMARY:20:30 ★★★ [黄金] 美国第二季度实际个人消费支出季�
 UID:data-1184923@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月25日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月25日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 296.9 万桶
 DTSTART:20260930T003000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至9月25日当周EIA原油库存(万桶)
 UID:data-1184927@econ-calendar
