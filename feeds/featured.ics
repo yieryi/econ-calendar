@@ -14,14 +14,8 @@ SUMMARY:20:30 ★★★★ [黄金] 美国8月核心PCE物价指数年率
 UID:data-1184921@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国第二季度实际个人消费支出季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 3.40 %
-DTSTART:20260930T002000Z
-SUMMARY:20:30 ★★★ [黄金] 美国第二季度实际个人消费支出季率初值
-UID:data-1184923@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月25日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 296.9 万桶
-DTSTART:20260930T003000Z
+DTSTART:20260930T002000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至9月25日当周EIA原油库存(万桶)
 UID:data-1184927@econ-calendar
 END:VEVENT
@@ -32,7 +26,7 @@ SUMMARY:20:30 ★★★★ [黄金] 美国至9月26日当周初请失业金人�
 UID:data-1145150@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:00\n项目: 美国9月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 55\n前值: 54.6 --
+DESCRIPTION:【经济数据】\n真实时间: 22:00\n项目: 美国9月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 54.8\n前值: 54.6 --
 DTSTART:20261001T001000Z
 SUMMARY:22:00 ★★★★ [黄金] 美国9月ISM制造业PMI
 UID:data-1145155@econ-calendar
@@ -44,7 +38,7 @@ SUMMARY:20:30 ★★★★★ [金银] 美国9月失业率
 UID:data-1145165@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 10.4\n前值: 16.2 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 10\n前值: 16.2 万人
 DTSTART:20261002T001000Z
 SUMMARY:20:30 ★★★★★ [金银] 美国9月季调后非农就业人口(万人)
 UID:data-1145168@econ-calendar
