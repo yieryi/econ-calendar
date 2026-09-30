@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国9月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 7.2\n前值: 3.8 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国9月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 7\n前值: 3.8 万人
 DTSTART:20260930T000000Z
 SUMMARY:20:15 ★★★★ [黄金] 美国9月ADP就业人数(万人)
 UID:data-1184913@econ-calendar
@@ -14,7 +14,7 @@ SUMMARY:20:30 ★★★★ [黄金] 美国8月核心PCE物价指数年率
 UID:data-1184921@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月25日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 296.9 万桶
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至9月25日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: -114\n前值: 296.9 万桶
 DTSTART:20260930T002000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至9月25日当周EIA原油库存(万桶)
 UID:data-1184927@econ-calendar
@@ -138,5 +138,47 @@ DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月23日
 DTSTART:20261028T000000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至10月23日当周EIA原油库存(万桶)
 UID:data-1145430@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 02:00\n项目: 美国至10月28日美联储利率决定(上限)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 4.00 %
+DTSTART:20261029T000000Z
+SUMMARY:02:00 ★★★★★ [黄金] 美国至10月28日美联储利率决定(上限)
+UID:data-1145437@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 02:00\n项目: 美国至10月28日美联储利率决定(下限)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 3.75 %
+DTSTART:20261029T001000Z
+SUMMARY:02:00 ★★ [黄金] 美国至10月28日美联储利率决定(下限)
+UID:data-1145438@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国第三季度实际GDP年化季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261029T002000Z
+SUMMARY:20:30 ★★★ [黄金] 美国第三季度实际GDP年化季率初值
+UID:data-1145445@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至10月24日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261029T003000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国至10月24日当周初请失业金人数(万人)
+UID:data-1145447@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国第三季度实际个人消费支出季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261029T004000Z
+SUMMARY:20:30 ★★★ [黄金] 美国第三季度实际个人消费支出季率初值
+UID:data-1145448@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国第三季度核心PCE物价指数年化季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261029T005000Z
+SUMMARY:20:30 ★★★ [黄金] 美国第三季度核心PCE物价指数年化季率初值
+UID:data-1145454@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261029T010000Z
+SUMMARY:20:30 ★★★★ [黄金] 美国9月核心PCE物价指数年率
+UID:data-1145458@econ-calendar
 END:VEVENT
 END:VCALENDAR
