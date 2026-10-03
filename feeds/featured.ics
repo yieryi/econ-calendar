@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 4.1\n前值: 4.10 %
-DTSTART:20261002T000000Z
-SUMMARY:20:30 ★★★★★ [金银] 美国9月失业率
-UID:data-1145165@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 9\n前值: 16.2 万人
-DTSTART:20261002T001000Z
-SUMMARY:20:30 ★★★★★ [金银] 美国9月季调后非农就业人口(万人)
-UID:data-1145168@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月19日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 2 万人
 DTSTART:20261006T000000Z
 SUMMARY:20:15 ★★★ [黄金] 美国至9月19日当周ADP就业人数周度变动(万人)
