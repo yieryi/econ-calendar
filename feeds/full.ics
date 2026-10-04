@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至10月2日当周总钻井总数(口)\n国家: 美国\n重要性: 2星\n----------------\n今值: 598\n预测: --\n前值: 599 口
-DTSTART:20261003T000000Z
-SUMMARY:01:00 ★★ [油气] 美国至10月2日当周总钻井总数(口)
-UID:data-1145175@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至10月2日当周天然气钻井总数(口)\n国家: 美国\n重要性: 1星\n----------------\n今值: 133\n预测: --\n前值: 135 口
-DTSTART:20261003T001000Z
-SUMMARY:01:00 ★ [天然气] 美国至10月2日当周天然气钻井总数(口)
-UID:data-1145176@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至10月2日当周石油钻井总数(口)\n国家: 美国\n重要性: 3星\n----------------\n今值: 456\n预测: --\n前值: 455 口
-DTSTART:20261003T002000Z
-SUMMARY:01:00 ★★★ [原油] 美国至10月2日当周石油钻井总数(口)
-UID:data-1145177@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 03:30\n内容: CFTC公布周度持仓报告。\n国家: 美国\n人物: --\n重要性: 2星
-DTSTART:20261003T003000Z
-SUMMARY:03:30 [大事] ★★ 美国 CFTC公布周度持仓报告。
-UID:event-1148588@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: 澳大利亚开始进入夏令时，其金融市场交易时间及经济数据公布时间将较冬令时提前一小时。\n国家: 澳大利亚\n人物: --\n重要性: 3星
 DTSTART:20261004T000000Z
 SUMMARY:00:00 [大事] ★★★ 澳大利亚 澳大利亚开始进入夏令时，其金融市场交易时间及经济数据公布...
@@ -806,7 +782,7 @@ SUMMARY:09:20 [大事] ★★ 中国 今日有3000亿元14天期逆回购到期�
 UID:event-1187743@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 14:00\n项目: 马来西亚9月1-30日SGS马棕油出口量(吨)\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 930946 吨
+DESCRIPTION:【经济数据】\n真实时间: 14:00\n项目: 马来西亚9月1-30日SGS马棕油出口量(吨)\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 955298 吨
 DTSTART:20261012T004000Z
 SUMMARY:14:00 ★★★ [马棕油] 马来西亚9月1-30日SGS马棕油出口量(吨)
 UID:data-1187595@econ-calendar
@@ -2718,5 +2694,23 @@ DESCRIPTION:【财经大事】\n真实时间: 14:00\n内容: 北美地区开始�
 DTSTART:20261101T001000Z
 SUMMARY:14:00 [大事] ★★★ 美国 北美地区开始实行冬令时，美国和加拿大金融市场交易时间和经...
 UID:event-1148298@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 09:45\n项目: 中国10月RatingDog制造业PMI\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 52.1 --
+DTSTART:20261102T000000Z
+SUMMARY:09:45 ★★★ [大宗商品] 中国10月RatingDog制造业PMI
+UID:data-1178739@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 22:45\n项目: 美国10月标普全球制造业PMI终值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 55.9 --
+DTSTART:20261102T001000Z
+SUMMARY:22:45 ★★★ [金银] 美国10月标普全球制造业PMI终值
+UID:data-1178750@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国10月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 54.5 --
+DTSTART:20261102T002000Z
+SUMMARY:23:00 ★★★★ [黄金] 美国10月ISM制造业PMI
+UID:data-1178751@econ-calendar
 END:VEVENT
 END:VCALENDAR

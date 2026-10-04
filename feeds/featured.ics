@@ -139,4 +139,10 @@ DTSTART:20261029T010000Z
 SUMMARY:20:30 ★★★★ [黄金] 美国9月核心PCE物价指数年率
 UID:data-1145458@econ-calendar
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国10月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 54.5 --
+DTSTART:20261102T000000Z
+SUMMARY:23:00 ★★★★ [黄金] 美国10月ISM制造业PMI
+UID:data-1178751@econ-calendar
+END:VEVENT
 END:VCALENDAR
