@@ -145,4 +145,16 @@ DTSTART:20261102T000000Z
 SUMMARY:23:00 ★★★★ [黄金] 美国10月ISM制造业PMI
 UID:data-1178751@econ-calendar
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国10月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 9 万人
+DTSTART:20261104T000000Z
+SUMMARY:21:15 ★★★★ [黄金] 美国10月ADP就业人数(万人)
+UID:data-1178816@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261104T001000Z
+SUMMARY:23:30 ★★★★ [原油] 美国至10月30日当周EIA原油库存(万桶)
+UID:data-1178824@econ-calendar
+END:VEVENT
 END:VCALENDAR
