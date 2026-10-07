@@ -2,13 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月19日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 2 万人
-DTSTART:20261006T000000Z
-SUMMARY:20:15 ★★★ [黄金] 美国至9月19日当周ADP就业人数周度变动(万人)
-UID:data-1186712@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月2日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 92.2 万桶
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月2日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 172.2\n前值: 92.2 万桶
 DTSTART:20261007T000000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至10月2日当周EIA原油库存(万桶)
 UID:data-1145240@econ-calendar
@@ -20,13 +14,13 @@ SUMMARY:02:00 [大事] ★★★★ 美国 美联储公布货币政策会议纪�
 UID:event-1148309@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至10月3日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 19.7 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国至10月3日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 20\n前值: 19.7 万人
 DTSTART:20261008T001000Z
 SUMMARY:20:30 ★★★★ [黄金] 美国至10月3日当周初请失业金人数(万人)
 UID:data-1145256@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月26日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至9月26日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 2.375 万人
 DTSTART:20261013T000000Z
 SUMMARY:20:15 ★★★ [黄金] 美国至9月26日当周ADP就业人数周度变动(万人)
 UID:data-1186770@econ-calendar
@@ -156,5 +150,11 @@ DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日
 DTSTART:20261104T001000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至10月30日当周EIA原油库存(万桶)
 UID:data-1178824@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至10月31日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261105T000000Z
+SUMMARY:21:30 ★★★★ [黄金] 美国至10月31日当周初请失业金人数(万人)
+UID:data-1178855@econ-calendar
 END:VEVENT
 END:VCALENDAR
