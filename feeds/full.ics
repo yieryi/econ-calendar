@@ -2,162 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月M2货币供应年率\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: 7.4\n前值: 7.5 %
-DTSTART:20261010T000000Z
-SUMMARY:00:00 ★★★ [大宗商品] 中国9月M2货币供应年率
-UID:data-1187954@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月M1货币供应年率\n国家: 中国\n重要性: 1星\n----------------\n今值: --\n预测: 4\n前值: 4.1 %
-DTSTART:20261010T001000Z
-SUMMARY:00:00 ★ [大宗商品] 中国9月M1货币供应年率
-UID:data-1187955@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月M0货币供应年率\n国家: 中国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 11.2 %
-DTSTART:20261010T002000Z
-SUMMARY:00:00 ★ [大宗商品] 中国9月M0货币供应年率
-UID:data-1187956@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月今年迄今社会融资规模增量(亿元)\n国家: 中国\n重要性: 1星\n----------------\n今值: --\n预测: 272745\n前值: 239100 亿元
-DTSTART:20261010T003000Z
-SUMMARY:00:00 ★ [大宗商品] 中国9月今年迄今社会融资规模增量(亿元)
-UID:data-1187959@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月今年迄今新增人民币贷款(亿元)\n国家: 中国\n重要性: 2星\n----------------\n今值: --\n预测: 114869\n前值: 104400 亿元
-DTSTART:20261010T004000Z
-SUMMARY:00:00 ★★ [大宗商品] 中国9月今年迄今新增人民币贷款(亿元)
-UID:data-1187960@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 全球10月2026/27市场年度全球棉花期末库存(万包)\n国家: 全球\n重要性: 2星\n----------------\n今值: 7068\n预测: --\n前值: 6986 万包
-DTSTART:20261010T005000Z
-SUMMARY:00:00 ★★ [棉花] 全球10月2026/27市场年度全球棉花期末库存(万包)
-UID:data-1187987@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 全球10月2026/27市场年度全球小麦期末库存(亿吨)\n国家: 全球\n重要性: 2星\n----------------\n今值: 2.7604\n预测: 27663\n前值: 2.7629 亿吨
-DTSTART:20261010T010000Z
-SUMMARY:00:00 ★★ [小麦] 全球10月2026/27市场年度全球小麦期末库存(亿吨)
-UID:data-1187988@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 全球10月2026/27市场年度全球大豆期末库存(亿吨)\n国家: 全球\n重要性: 2星\n----------------\n今值: 1.2428\n预测: 12333\n前值: 1.2402 亿吨
-DTSTART:20261010T011000Z
-SUMMARY:00:00 ★★ [大豆] 全球10月2026/27市场年度全球大豆期末库存(亿吨)
-UID:data-1187989@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 全球10月2026/27市场年度全球玉米期末库存(亿吨)\n国家: 全球\n重要性: 3星\n----------------\n今值: 2.8044\n预测: 27378\n前值: 2.721 亿吨
-DTSTART:20261010T012000Z
-SUMMARY:00:00 ★★★ [玉米] 全球10月2026/27市场年度全球玉米期末库存(亿吨)
-UID:data-1187990@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 阿根廷10月2026/27年度大豆产量预估(万吨)\n国家: 阿根廷\n重要性: 2星\n----------------\n今值: 5000\n预测: --\n前值: 5000 万吨
-DTSTART:20261010T013000Z
-SUMMARY:00:00 ★★ [大豆] 阿根廷10月2026/27年度大豆产量预估(万吨)
-UID:data-1187991@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 阿根廷10月2026/27年度玉米产量预估(万吨)\n国家: 阿根廷\n重要性: 2星\n----------------\n今值: 5500\n预测: --\n前值: 5500 万吨
-DTSTART:20261010T014000Z
-SUMMARY:00:00 ★★ [玉米] 阿根廷10月2026/27年度玉米产量预估(万吨)
-UID:data-1187992@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 巴西10月2026/27年度玉米产量预估(亿吨)\n国家: 巴西\n重要性: 2星\n----------------\n今值: 1.39\n预测: --\n前值: 1.39 亿吨
-DTSTART:20261010T015000Z
-SUMMARY:00:00 ★★ [玉米] 巴西10月2026/27年度玉米产量预估(亿吨)
-UID:data-1187993@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 巴西10月2026/27年度大豆产量预估(亿吨)\n国家: 巴西\n重要性: 2星\n----------------\n今值: 1.86\n预测: --\n前值: 1.86 亿吨
-DTSTART:20261010T020000Z
-SUMMARY:00:00 ★★ [大豆] 巴西10月2026/27年度大豆产量预估(亿吨)
-UID:data-1187994@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA大豆产量预估(亿蒲式耳)\n国家: 美国\n重要性: 3星\n----------------\n今值: 45.62\n预测: 45.34\n前值: 45.35 亿蒲式耳
-DTSTART:20261010T021000Z
-SUMMARY:00:00 ★★★  美国10月2026/2027年度USDA大豆产量预估(亿蒲式耳)
-UID:data-1187995@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA小麦产量预估(亿蒲式耳)\n国家: 美国\n重要性: 1星\n----------------\n今值: 15.34\n预测: --\n前值: 15.31 亿蒲式耳
-DTSTART:20261010T022000Z
-SUMMARY:00:00 ★ [小麦] 美国10月2026/2027年度USDA小麦产量预估(亿蒲式耳)
-UID:data-1187996@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA棉花产量预估(万包)\n国家: 美国\n重要性: 1星\n----------------\n今值: 1344\n预测: --\n前值: 1320 万包
-DTSTART:20261010T023000Z
-SUMMARY:00:00 ★ [棉花] 美国10月2026/2027年度USDA棉花产量预估(万包)
-UID:data-1187997@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA玉米产量预估(亿蒲式耳)\n国家: 美国\n重要性: 2星\n----------------\n今值: 160.34\n预测: 157.21\n前值: 158 亿蒲式耳
-DTSTART:20261010T024000Z
-SUMMARY:00:00 ★★ [玉米] 美国10月2026/2027年度USDA玉米产量预估(亿蒲式耳)
-UID:data-1187998@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA大豆单产预估(蒲式耳/英亩)\n国家: 美国\n重要性: 3星\n----------------\n今值: 53.1\n预测: 52.8\n前值: 52.8 蒲式耳/英亩
-DTSTART:20261010T025000Z
-SUMMARY:00:00 ★★★ [大豆] 美国10月2026/2027年度USDA大豆单产预估(蒲式耳/英亩)
-UID:data-1187999@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA大豆期末库存预估(亿蒲式耳)\n国家: 美国\n重要性: 3星\n----------------\n今值: 3.15\n预测: 3.05\n前值: 3.1 亿蒲式耳
-DTSTART:20261010T030000Z
-SUMMARY:00:00 ★★★ [大豆] 美国10月2026/2027年度USDA大豆期末库存预估(亿蒲式耳)
-UID:data-1188000@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA玉米期末库存预估(亿蒲式耳)\n国家: 美国\n重要性: 2星\n----------------\n今值: 18.49\n预测: 16.70\n前值: 15.67 亿蒲式耳
-DTSTART:20261010T031000Z
-SUMMARY:00:00 ★★ [玉米] 美国10月2026/2027年度USDA玉米期末库存预估(亿蒲式耳)
-UID:data-1188001@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA小麦期末库存预估(亿蒲式耳)\n国家: 美国\n重要性: 2星\n----------------\n今值: 7.4\n预测: 7.21\n前值: 7.17 亿蒲式耳
-DTSTART:20261010T032000Z
-SUMMARY:00:00 ★★ [小麦] 美国10月2026/2027年度USDA小麦期末库存预估(亿蒲式耳)
-UID:data-1188002@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国10月2026/2027年度USDA棉花期末库存预估(万包)\n国家: 美国\n重要性: 2星\n----------------\n今值: 380\n预测: --\n前值: 360 万包
-DTSTART:20261010T033000Z
-SUMMARY:00:00 ★★ [棉花] 美国10月2026/2027年度USDA棉花期末库存预估(万包)
-UID:data-1188003@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至10月9日当周总钻井总数(口)\n国家: 美国\n重要性: 2星\n----------------\n今值: 603\n预测: --\n前值: 598 口
-DTSTART:20261010T034000Z
-SUMMARY:01:00 ★★ [油气] 美国至10月9日当周总钻井总数(口)
-UID:data-1145261@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至10月9日当周天然气钻井总数(口)\n国家: 美国\n重要性: 1星\n----------------\n今值: 132\n预测: --\n前值: 133 口
-DTSTART:20261010T035000Z
-SUMMARY:01:00 ★ [天然气] 美国至10月9日当周天然气钻井总数(口)
-UID:data-1145262@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至10月9日当周石油钻井总数(口)\n国家: 美国\n重要性: 3星\n----------------\n今值: 462\n预测: --\n前值: 456 口
-DTSTART:20261010T040000Z
-SUMMARY:01:00 ★★★ [原油] 美国至10月9日当周石油钻井总数(口)
-UID:data-1145263@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 03:30\n内容: CFTC公布周度持仓报告。\n国家: 美国\n人物: --\n重要性: 2星
-DTSTART:20261010T041000Z
-SUMMARY:03:30 [大事] ★★ 美国 CFTC公布周度持仓报告。
-UID:event-1148589@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: Mysteel公布澳洲、巴西铁矿石发货量\n国家: 中国\n人物: --\n重要性: 2星
 DTSTART:20261012T000000Z
 SUMMARY:00:00 [大事] ★★ 中国 Mysteel公布澳洲、巴西铁矿石发货量
@@ -992,13 +836,13 @@ SUMMARY:09:20 [大事] ★★ 中国 今日有20亿元7天期逆回购到期。
 UID:event-1188125@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 13:00\n项目: 中国至10月16日外购仔猪养殖利润(元/头)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 元/头
+DESCRIPTION:【经济数据】\n真实时间: 13:00\n项目: 中国至10月16日外购仔猪养殖利润(元/头)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -170.9 元/头
 DTSTART:20261016T035000Z
 SUMMARY:13:00 ★★★ [生猪] 中国至10月16日外购仔猪养殖利润(元/头)
 UID:data-1186369@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 13:00\n项目: 中国至10月16日自繁自养生猪养殖利润(元/头)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 元/头
+DESCRIPTION:【经济数据】\n真实时间: 13:00\n项目: 中国至10月16日自繁自养生猪养殖利润(元/头)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -252.3 元/头
 DTSTART:20261016T040000Z
 SUMMARY:13:00 ★★★ [生猪] 中国至10月16日自繁自养生猪养殖利润(元/头)
 UID:data-1186378@econ-calendar
@@ -2634,5 +2478,17 @@ DESCRIPTION:【财经大事】\n真实时间: 04:30\n内容: CFTC公布周度持
 DTSTART:20261107T004000Z
 SUMMARY:04:30 [大事] ★★ 美国 CFTC公布周度持仓报告。
 UID:event-1148593@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 09:30\n项目: 中国10月PPI年率\n国家: 中国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261109T000000Z
+SUMMARY:09:30 ★★ [大宗商品] 中国10月PPI年率
+UID:data-1178899@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 09:30\n项目: 中国10月CPI年率\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261109T001000Z
+SUMMARY:09:30 ★★★ [大宗商品] 中国10月CPI年率
+UID:data-1178900@econ-calendar
 END:VEVENT
 END:VCALENDAR
