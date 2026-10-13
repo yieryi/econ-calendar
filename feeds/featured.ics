@@ -14,7 +14,7 @@ SUMMARY:20:30 ★★★★ [金银] 美国9月季调后CPI月率
 UID:data-1145276@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月未季调CPI年率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 3.7\n前值: 3.40 %
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国9月未季调CPI年率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 3.6\n前值: 3.40 %
 DTSTART:20261014T001000Z
 SUMMARY:20:30 ★★★★★ [金银] 美国9月未季调CPI年率
 UID:data-1145278@econ-calendar
@@ -38,7 +38,7 @@ SUMMARY:20:30 ★★★★ [黄金] 美国9月零售销售月率
 UID:data-1145310@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月9日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -318.6 万桶
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月9日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 190\n前值: -318.6 万桶
 DTSTART:20261016T000000Z
 SUMMARY:00:00 ★★★★ [原油] 美国至10月9日当周EIA原油库存(万桶)
 UID:data-1145314@econ-calendar
