@@ -3,19 +3,13 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国9月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 1.7 %
-DTSTART:20261020T000000Z
+DTSTART:20261021T000000Z
 SUMMARY:00:00 ★★★★ [大宗商品] 中国9月全社会用电量同比
 UID:data-1185427@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至10月3日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 2.475 万人
-DTSTART:20261020T001000Z
-SUMMARY:20:15 ★★★ [黄金] 美国至10月3日当周ADP就业人数周度变动(万人)
-UID:data-1186852@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月16日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -855.7 万桶
-DTSTART:20261021T000000Z
+DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月16日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: -110.7\n前值: -855.7 万桶
+DTSTART:20261021T001000Z
 SUMMARY:22:30 ★★★★ [原油] 美国至10月16日当周EIA原油库存(万桶)
 UID:data-1145366@econ-calendar
 END:VEVENT
@@ -26,7 +20,7 @@ SUMMARY:20:30 ★★★★ [黄金] 美国至10月17日当周初请失业金人�
 UID:data-1145375@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至10月10日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 20:15\n项目: 美国至10月10日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1.85 万人
 DTSTART:20261027T000000Z
 SUMMARY:20:15 ★★★ [黄金] 美国至10月10日当周ADP就业人数周度变动(万人)
 UID:data-1186921@econ-calendar
@@ -168,5 +162,17 @@ DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月13日
 DTSTART:20261118T000000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至11月13日当周EIA原油库存(万桶)
 UID:data-1179089@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【财经大事】\n真实时间: 03:00\n内容: 美联储公布货币政策会议纪要。\n国家: 美国\n人物: 美联储\n重要性: 4星
+DTSTART:20261119T000000Z
+SUMMARY:03:00 [大事] ★★★★ 美国 美联储公布货币政策会议纪要。
+UID:event-1148310@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月14日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261119T001000Z
+SUMMARY:21:30 ★★★★ [黄金] 美国至11月14日当周初请失业金人数(万人)
+UID:data-1179114@econ-calendar
 END:VEVENT
 END:VCALENDAR
