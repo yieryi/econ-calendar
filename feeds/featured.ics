@@ -2,25 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:30\n项目: 美国至10月23日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 52.2\n前值: -306 万桶
-DTSTART:20261028T000000Z
-SUMMARY:22:30 ★★★★ [原油] 美国至10月23日当周EIA原油库存(万桶)
-UID:data-1145430@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 02:00\n内容: 美联储FOMC公布利率决议。\n国家: 美国\n人物: 美联储\n重要性: 5星
 DTSTART:20261029T000000Z
 SUMMARY:02:00 [大事] ★★★★★ 美国 美联储FOMC公布利率决议。
 UID:event-1082085@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 02:00\n项目: 美国至10月28日美联储利率决定(上限)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 4.00\n前值: 4.00 %
+DESCRIPTION:【经济数据】\n真实时间: 02:00\n项目: 美国至10月28日美联储利率决定(上限)\n国家: 美国\n重要性: 5星\n----------------\n今值: 4\n预测: 4.00\n前值: 4.00 %
 DTSTART:20261029T001000Z
 SUMMARY:02:00 ★★★★★ [黄金] 美国至10月28日美联储利率决定(上限)
 UID:data-1145437@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 02:00\n项目: 美国至10月28日美联储利率决定(下限)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: 3.75\n前值: 3.75 %
+DESCRIPTION:【经济数据】\n真实时间: 02:00\n项目: 美国至10月28日美联储利率决定(下限)\n国家: 美国\n重要性: 2星\n----------------\n今值: 3.75\n预测: 3.75\n前值: 3.75 %
 DTSTART:20261029T002000Z
 SUMMARY:02:00 ★★ [黄金] 美国至10月28日美联储利率决定(下限)
 UID:data-1145438@econ-calendar
@@ -44,7 +38,7 @@ SUMMARY:20:30 ★★★★ [黄金] 美国至10月24日当周初请失业金人�
 UID:data-1145447@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国第三季度实际个人消费支出季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: 3.50\n前值: 3.80 %
+DESCRIPTION:【经济数据】\n真实时间: 20:30\n项目: 美国第三季度实际个人消费支出季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 3.80 %
 DTSTART:20261029T010000Z
 SUMMARY:20:30 ★★★ [黄金] 美国第三季度实际个人消费支出季率初值
 UID:data-1145448@econ-calendar
@@ -74,7 +68,7 @@ SUMMARY:21:15 ★★★★ [黄金] 美国10月ADP就业人数(万人)
 UID:data-1178816@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 1.5\n前值: -189.2 万桶
 DTSTART:20261104T001000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至10月30日当周EIA原油库存(万桶)
 UID:data-1178824@econ-calendar
