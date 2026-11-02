@@ -121,4 +121,10 @@ DTSTART:20261125T002000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至11月20日当周EIA原油库存(万桶)
 UID:data-1179215@econ-calendar
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国11月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- --
+DTSTART:20261201T000000Z
+SUMMARY:23:00 ★★★★ [黄金] 美国11月ISM制造业PMI
+UID:data-1179329@econ-calendar
+END:VEVENT
 END:VCALENDAR
