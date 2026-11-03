@@ -2,126 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 马来西亚10月1-25日SPPOMA马棕油产量预估\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 20.84 %
-DTSTART:20261102T000000Z
-SUMMARY:00:00 ★★★ [马棕油] 马来西亚10月1-25日SPPOMA马棕油产量预估
-UID:data-1188695@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 马来西亚10月1-31日Amspec马棕油出口量(吨)\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 950957 吨
-DTSTART:20261102T001000Z
-SUMMARY:00:00 ★★★ [马棕油] 马来西亚10月1-31日Amspec马棕油出口量(吨)
-UID:data-1188724@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 马来西亚10月1-31日SGS马棕油出口量(吨)\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 905316 吨
-DTSTART:20261102T002000Z
-SUMMARY:00:00 ★★★ [马棕油] 马来西亚10月1-31日SGS马棕油出口量(吨)
-UID:data-1188726@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: Mysteel公布澳洲、巴西铁矿石发货量\n国家: 中国\n人物: --\n重要性: 2星
-DTSTART:20261102T003000Z
-SUMMARY:00:00 [大事] ★★ 中国 Mysteel公布澳洲、巴西铁矿石发货量
-UID:event-1189445@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: 北方港口铁矿到港量\n国家: 中国\n人物: --\n重要性: 2星
-DTSTART:20261102T004000Z
-SUMMARY:00:00 [大事] ★★ 中国 北方港口铁矿到港量
-UID:event-1189454@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 07:00\n项目: 中国至11月2日钢银电商全国城市总库存量(万吨)\n国家: 中国\n重要性: 2星\n----------------\n今值: 876.68\n预测: --\n前值: 899.23 万吨
-DTSTART:20261102T005000Z
-SUMMARY:07:00 ★★ [螺纹钢] 中国至11月2日钢银电商全国城市总库存量(万吨)
-UID:data-1188910@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有1万亿隔夜逆回购、560亿元7天期逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
-DTSTART:20261102T010000Z
-SUMMARY:09:20 [大事] ★★ 中国 今日有1万亿隔夜逆回购、560亿元7天期逆回购到期。
-UID:event-1188836@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 09:45\n项目: 中国10月RatingDog制造业PMI\n国家: 中国\n重要性: 3星\n----------------\n今值: 52\n预测: 51.6\n前值: 52.1 --
-DTSTART:20261102T011000Z
-SUMMARY:09:45 ★★★ [大宗商品] 中国10月RatingDog制造业PMI
-UID:data-1178739@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至10月30日全国重点地区豆油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 148.28 万吨
-DTSTART:20261102T012000Z
-SUMMARY:16:00 ★★★ [豆油] 中国至10月30日全国重点地区豆油商业库存(万吨)
-UID:data-1188883@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至10月30日全国重点地区棕榈油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 121.76 万吨
-DTSTART:20261102T013000Z
-SUMMARY:16:00 ★★★ [棕榈油] 中国至10月30日全国重点地区棕榈油商业库存(万吨)
-UID:data-1188892@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月2日进口大豆港口库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 902.67 万吨
-DTSTART:20261102T014000Z
-SUMMARY:16:00 ★★★ [大豆] 中国至11月2日进口大豆港口库存(万吨)
-UID:data-1188901@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月2日LME铅库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -150 吨
-DTSTART:20261102T015000Z
-SUMMARY:17:00 ★ [铅] 英国至11月2日LME铅库存变化值(吨)
-UID:data-1188919@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月2日LME铜库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1800 吨
-DTSTART:20261102T020000Z
-SUMMARY:17:00 ★★★ [铜] 英国至11月2日LME铜库存变化值(吨)
-UID:data-1188928@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月2日LME铝合金库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 0 吨
-DTSTART:20261102T021000Z
-SUMMARY:17:00 ★ [铝合金] 英国至11月2日LME铝合金库存变化值(吨)
-UID:data-1188937@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月2日LME铝库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -475 吨
-DTSTART:20261102T022000Z
-SUMMARY:17:00 ★★★ [铝] 英国至11月2日LME铝库存变化值(吨)
-UID:data-1188946@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月2日LME锌库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -1400 吨
-DTSTART:20261102T023000Z
-SUMMARY:17:00 ★★ [锌] 英国至11月2日LME锌库存变化值(吨)
-UID:data-1188955@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月2日LME锡库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 10 吨
-DTSTART:20261102T024000Z
-SUMMARY:17:00 ★★ [锡] 英国至11月2日LME锡库存变化值(吨)
-UID:data-1188964@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月2日LME镍库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -552 吨
-DTSTART:20261102T025000Z
-SUMMARY:17:00 ★★★ [镍] 英国至11月2日LME镍库存变化值(吨)
-UID:data-1188973@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:45\n项目: 美国10月标普全球制造业PMI终值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 56 --
-DTSTART:20261102T030000Z
-SUMMARY:22:45 ★★★ [金银] 美国10月标普全球制造业PMI终值
-UID:data-1178750@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国10月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 54.6\n前值: 54.5 --
-DTSTART:20261102T031000Z
-SUMMARY:23:00 ★★★★ [黄金] 美国10月ISM制造业PMI
-UID:data-1178751@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: 2026年美国中期选举。\n国家: 美国\n人物: --\n重要性: 3星
 DTSTART:20261103T000000Z
 SUMMARY:00:00 [大事] ★★★ 美国 2026年美国中期选举。
@@ -134,164 +14,158 @@ SUMMARY:00:00 [大事] ★★ 西班牙 欧洲央行管委艾斯克里瓦发表�
 UID:event-1188370@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月29日玉米出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 625233 吨
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 马来西亚10月1-31日SGS马棕油出口量(吨)\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 905316 吨
 DTSTART:20261103T002000Z
+SUMMARY:00:00 ★★★ [马棕油] 马来西亚10月1-31日SGS马棕油出口量(吨)
+UID:data-1188726@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月29日玉米出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: 884766\n预测: --\n前值: 625233 吨
+DTSTART:20261103T003000Z
 SUMMARY:00:00 ★★ [美玉米] 美国至10月29日玉米出口检验量(吨)
 UID:data-1188982@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月29日小麦出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 183824 吨
-DTSTART:20261103T003000Z
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月29日小麦出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: 75413\n预测: --\n前值: 183824 吨
+DTSTART:20261103T004000Z
 SUMMARY:00:00 ★★ [美小麦] 美国至10月29日小麦出口检验量(吨)
 UID:data-1188991@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月29日大豆出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 2476453 吨
-DTSTART:20261103T004000Z
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至10月29日大豆出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: 2444828\n预测: --\n前值: 2476453 吨
+DTSTART:20261103T005000Z
 SUMMARY:00:00 ★★ [美大豆] 美国至10月29日大豆出口检验量(吨)
 UID:data-1189000@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: LME持仓报告\n国家: 英国\n人物: --\n重要性: 2星
-DTSTART:20261103T005000Z
+DTSTART:20261103T010000Z
 SUMMARY:00:00 [大事] ★★ 英国 LME持仓报告
 UID:event-1189463@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: Conab巴西大豆、玉米报告 \n国家: 巴西\n人物: --\n重要性: 2星
-DTSTART:20261103T010000Z
+DTSTART:20261103T011000Z
 SUMMARY:00:00 [大事] ★★ 巴西 Conab巴西大豆、玉米报告
 UID:event-1189472@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: 巴西商贸部农产品、工业品出口报告\n国家: 巴西\n人物: --\n重要性: 2星
-DTSTART:20261103T011000Z
+DTSTART:20261103T012000Z
 SUMMARY:00:00 [大事] ★★ 巴西 巴西商贸部农产品、工业品出口报告
 UID:event-1189481@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 00:15\n内容: 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。\n国家: 美国\n人物: --\n重要性: 3星
-DTSTART:20261103T012000Z
+DTSTART:20261103T013000Z
 SUMMARY:00:15 [大事] ★★★ 美国 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
 UID:event-1188744@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 04:00\n项目: 美国9月DDGS产量(万吨)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 184.5 万吨
-DTSTART:20261103T013000Z
+DESCRIPTION:【经济数据】\n真实时间: 04:00\n项目: 美国9月DDGS产量(万吨)\n国家: 美国\n重要性: 3星\n----------------\n今值: 169.9\n预测: --\n前值: 184.5 万吨
+DTSTART:20261103T014000Z
 SUMMARY:04:00 ★★★ [美玉米] 美国9月DDGS产量(万吨)
 UID:data-1189958@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 04:00\n项目: 美国9月USDA豆油产量(亿磅)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 24.5 亿磅
-DTSTART:20261103T014000Z
+DESCRIPTION:【经济数据】\n真实时间: 04:00\n项目: 美国9月USDA豆油产量(亿磅)\n国家: 美国\n重要性: 3星\n----------------\n今值: 23.1\n预测: --\n前值: 24.5 亿磅
+DTSTART:20261103T015000Z
 SUMMARY:04:00 ★★★ [豆油] 美国9月USDA豆油产量(亿磅)
 UID:data-1189959@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 04:00\n项目: 美国9月USDA大豆压榨量(万吨)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 629 万吨
-DTSTART:20261103T015000Z
+DESCRIPTION:【经济数据】\n真实时间: 04:00\n项目: 美国9月USDA大豆压榨量(万吨)\n国家: 美国\n重要性: 3星\n----------------\n今值: 596\n预测: --\n前值: 629 万吨
+DTSTART:20261103T020000Z
 SUMMARY:04:00 ★★★ [大豆] 美国9月USDA大豆压榨量(万吨)
 UID:data-1189960@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日玉米优良率\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 56 %
-DTSTART:20261103T020000Z
-SUMMARY:05:00 ★★★ [美玉米] 美国至11月1日玉米优良率
-UID:data-1189953@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日棉花优良率\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 33 %
+DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日棉花收割进度\n国家: 美国\n重要性: 2星\n----------------\n今值: 63\n预测: --\n前值: 52 %
 DTSTART:20261103T021000Z
-SUMMARY:05:00 ★★★ [美棉花] 美国至11月1日棉花优良率
-UID:data-1189954@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日棉花收割进度\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 52 %
-DTSTART:20261103T022000Z
 SUMMARY:05:00 ★★ [美棉花] 美国至11月1日棉花收割进度
 UID:data-1189955@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日大豆收割进度\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 79 %
-DTSTART:20261103T023000Z
+DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日大豆收割进度\n国家: 美国\n重要性: 3星\n----------------\n今值: 88\n预测: 88\n前值: 79 %
+DTSTART:20261103T022000Z
 SUMMARY:05:00 ★★★ [美大豆] 美国至11月1日大豆收割进度
 UID:data-1189956@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日玉米收割进度\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 60 %
-DTSTART:20261103T024000Z
+DESCRIPTION:【经济数据】\n真实时间: 05:00\n项目: 美国至11月1日玉米收割进度\n国家: 美国\n重要性: 3星\n----------------\n今值: 74\n预测: 73\n前值: 60 %
+DTSTART:20261103T023000Z
 SUMMARY:05:00 ★★★ [美玉米] 美国至11月1日玉米收割进度
 UID:data-1189957@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有4120亿元隔夜逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
-DTSTART:20261103T025000Z
-SUMMARY:09:20 [大事] ★★ 中国 今日有4120亿元隔夜逆回购到期。
+DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有5410亿元隔夜逆回购、4120亿元7天期逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
+DTSTART:20261103T024000Z
+SUMMARY:09:20 [大事] ★★ 中国 今日有5410亿元隔夜逆回购、4120亿元7天期逆回购到...
 UID:event-1189558@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 11:30\n内容: 澳洲联储公布利率决议和货币政策声明。\n国家: 澳大利亚\n人物: 澳洲联储\n重要性: 3星
-DTSTART:20261103T030000Z
+DTSTART:20261103T025000Z
 SUMMARY:11:30 [大事] ★★★ 澳大利亚 澳洲联储公布利率决议和货币政策声明。
 UID:event-1148341@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 11:30\n项目: 澳大利亚至11月3日澳洲联储利率决定\n国家: 澳大利亚\n重要性: 3星\n----------------\n今值: --\n预测: 4.85\n前值: 4.60 %
-DTSTART:20261103T031000Z
+DESCRIPTION:【经济数据】\n真实时间: 11:30\n项目: 澳大利亚至11月3日澳洲联储利率决定\n国家: 澳大利亚\n重要性: 3星\n----------------\n今值: 4.85\n预测: 4.85\n前值: 4.60 %
+DTSTART:20261103T030000Z
 SUMMARY:11:30 ★★★ [澳元] 澳大利亚至11月3日澳洲联储利率决定
 UID:data-1178769@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 12:30\n内容: 澳洲联储主席布洛克召开货币政策新闻发布会。\n国家: 澳大利亚\n人物: --\n重要性: 3星
-DTSTART:20261103T032000Z
+DTSTART:20261103T031000Z
 SUMMARY:12:30 [大事] ★★★ 澳大利亚 澳洲联储主席布洛克召开货币政策新闻发布会。
 UID:event-1148544@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月3日豆油港口库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 102.6 万吨
-DTSTART:20261103T033000Z
+DTSTART:20261103T032000Z
 SUMMARY:16:00 ★★★ [豆油] 中国至11月3日豆油港口库存(万吨)
 UID:data-1189009@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铅库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261103T034000Z
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铅库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 0 吨
+DTSTART:20261103T033000Z
 SUMMARY:17:00 ★ [铅] 英国至11月3日LME铅库存变化值(吨)
 UID:data-1189018@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铜库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261103T035000Z
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铜库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 19775 吨
+DTSTART:20261103T034000Z
 SUMMARY:17:00 ★★★ [铜] 英国至11月3日LME铜库存变化值(吨)
 UID:data-1189027@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铝合金库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261103T040000Z
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铝合金库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 0 吨
+DTSTART:20261103T035000Z
 SUMMARY:17:00 ★ [铝合金] 英国至11月3日LME铝合金库存变化值(吨)
 UID:data-1189036@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铝库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261103T041000Z
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME铝库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -425 吨
+DTSTART:20261103T040000Z
 SUMMARY:17:00 ★★★ [铝] 英国至11月3日LME铝库存变化值(吨)
 UID:data-1189045@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME锌库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261103T042000Z
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME锌库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -2700 吨
+DTSTART:20261103T041000Z
 SUMMARY:17:00 ★★ [锌] 英国至11月3日LME锌库存变化值(吨)
 UID:data-1189054@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME锡库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261103T043000Z
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME锡库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 0 吨
+DTSTART:20261103T042000Z
 SUMMARY:17:00 ★★ [锡] 英国至11月3日LME锡库存变化值(吨)
 UID:data-1189063@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME镍库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261103T044000Z
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月3日LME镍库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 0 吨
+DTSTART:20261103T043000Z
 SUMMARY:17:00 ★★★ [镍] 英国至11月3日LME镍库存变化值(吨)
 UID:data-1189072@econ-calendar
 END:VEVENT
@@ -308,242 +182,248 @@ SUMMARY:00:00 [大事] ★★ 中国 第二十四届中国半导体封装测试�
 UID:event-1189563@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API原油库存(万桶)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -203.1 万桶
+DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: 2026年美国中期选举。\n国家: 美国\n人物: --\n重要性: 3星
 DTSTART:20261104T002000Z
+SUMMARY:00:00 [大事] ★★★ 美国 2026年美国中期选举。
+UID:event-1190048@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API原油库存(万桶)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: 198.7\n前值: -203.1 万桶
+DTSTART:20261104T003000Z
 SUMMARY:05:30 ★★★ [原油] 美国至10月30日当周API原油库存(万桶)
 UID:data-1189604@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API汽油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 239 万桶
-DTSTART:20261104T003000Z
+DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API汽油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: 4\n前值: 239 万桶
+DTSTART:20261104T004000Z
 SUMMARY:05:30 ★ [原油] 美国至10月30日当周API汽油库存(万桶)
 UID:data-1189605@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API精炼油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 42.6 万桶
-DTSTART:20261104T004000Z
+DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API精炼油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: 40\n前值: 42.6 万桶
+DTSTART:20261104T005000Z
 SUMMARY:05:30 ★ [原油] 美国至10月30日当周API精炼油库存(万桶)
 UID:data-1189606@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API库欣原油库存(万桶)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -45.3 万桶
-DTSTART:20261104T005000Z
+DTSTART:20261104T010000Z
 SUMMARY:05:30 ★★ [原油] 美国至10月30日当周API库欣原油库存(万桶)
 UID:data-1189607@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API取暖油库存(万桶)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 38 万桶
-DTSTART:20261104T010000Z
+DTSTART:20261104T011000Z
 SUMMARY:05:30 ★★ [原油] 美国至10月30日当周API取暖油库存(万桶)
 UID:data-1189608@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API原油进口(万桶)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -13.7 万桶
-DTSTART:20261104T011000Z
+DTSTART:20261104T012000Z
 SUMMARY:05:30 ★★ [原油] 美国至10月30日当周API原油进口(万桶)
 UID:data-1189609@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API成品油进口(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -37.9 万桶/日
-DTSTART:20261104T012000Z
+DTSTART:20261104T013000Z
 SUMMARY:05:30 ★★ [原油] 美国至10月30日当周API成品油进口(万桶/日)
 UID:data-1189610@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 05:30\n项目: 美国至10月30日当周API投产原油量(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 4.7 万桶/日
-DTSTART:20261104T013000Z
+DTSTART:20261104T014000Z
 SUMMARY:05:30 ★★ [原油] 美国至10月30日当周API投产原油量(万桶/日)
 UID:data-1189611@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有1510亿元7天期逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
-DTSTART:20261104T014000Z
-SUMMARY:09:20 [大事] ★★ 中国 今日有1510亿元7天期逆回购到期。
+DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有6210亿元隔夜逆回购、1510亿元7天期逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
+DTSTART:20261104T015000Z
+SUMMARY:09:20 [大事] ★★ 中国 今日有6210亿元隔夜逆回购、1510亿元7天期逆回购到...
 UID:event-1189616@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 09:45\n项目: 中国10月RatingDog综合PMI\n国家: 中国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 52.4 --
-DTSTART:20261104T015000Z
+DTSTART:20261104T020000Z
 SUMMARY:09:45 ★★ [大宗商品] 中国10月RatingDog综合PMI
 UID:data-1178794@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 09:45\n项目: 中国10月RatingDog服务业PMI\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: 51.7\n前值: 51.6 --
-DTSTART:20261104T020000Z
+DESCRIPTION:【经济数据】\n真实时间: 09:45\n项目: 中国10月RatingDog服务业PMI\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 51.6 --
+DTSTART:20261104T021000Z
 SUMMARY:09:45 ★★★ [大宗商品] 中国10月RatingDog服务业PMI
 UID:data-1178795@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月4日LME铅库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261104T021000Z
+DTSTART:20261104T022000Z
 SUMMARY:17:00 ★ [铅] 英国至11月4日LME铅库存变化值(吨)
 UID:data-1189081@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月4日LME铜库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261104T022000Z
+DTSTART:20261104T023000Z
 SUMMARY:17:00 ★★★ [铜] 英国至11月4日LME铜库存变化值(吨)
 UID:data-1189090@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月4日LME铝合金库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261104T023000Z
+DTSTART:20261104T024000Z
 SUMMARY:17:00 ★ [铝合金] 英国至11月4日LME铝合金库存变化值(吨)
 UID:data-1189099@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月4日LME铝库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261104T024000Z
+DTSTART:20261104T025000Z
 SUMMARY:17:00 ★★★ [铝] 英国至11月4日LME铝库存变化值(吨)
 UID:data-1189108@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月4日LME锌库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261104T025000Z
+DTSTART:20261104T030000Z
 SUMMARY:17:00 ★★ [锌] 英国至11月4日LME锌库存变化值(吨)
 UID:data-1189117@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月4日LME锡库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261104T030000Z
+DTSTART:20261104T031000Z
 SUMMARY:17:00 ★★ [锡] 英国至11月4日LME锡库存变化值(吨)
 UID:data-1189126@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月4日LME镍库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261104T031000Z
+DTSTART:20261104T032000Z
 SUMMARY:17:00 ★★★ [镍] 英国至11月4日LME镍库存变化值(吨)
 UID:data-1189135@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国10月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 6.5\n前值: 9 万人
-DTSTART:20261104T032000Z
+DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国10月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 6.9\n前值: 9 万人
+DTSTART:20261104T033000Z
 SUMMARY:21:15 ★★★★ [黄金] 美国10月ADP就业人数(万人)
 UID:data-1178816@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 21:20\n内容: 欧洲央行首席经济学家连恩发表讲话。\n国家: 德国\n人物: --\n重要性: 2星
-DTSTART:20261104T033000Z
+DTSTART:20261104T034000Z
 SUMMARY:21:20 [大事] ★★ 德国 欧洲央行首席经济学家连恩发表讲话。
 UID:event-1189620@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 21:30\n内容: 美国财政部发布季度再融资公告。\n国家: 美国\n人物: --\n重要性: 3星
-DTSTART:20261104T034000Z
+DTSTART:20261104T035000Z
 SUMMARY:21:30 [大事] ★★★ 美国 美国财政部发布季度再融资公告。
 UID:event-1189944@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 22:45\n项目: 美国10月标普全球服务业PMI终值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 57.9 --
-DTSTART:20261104T035000Z
+DTSTART:20261104T040000Z
 SUMMARY:22:45 ★★★ [金银] 美国10月标普全球服务业PMI终值
 UID:data-1178821@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 22:45\n项目: 美国10月标普全球综合PMI终值\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 57.6 --
-DTSTART:20261104T040000Z
+DTSTART:20261104T041000Z
 SUMMARY:22:45 ★★ [金银] 美国10月标普全球综合PMI终值
 UID:data-1178822@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国10月ISM非制造业PMI\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: 54.8\n前值: 54.9 --
-DTSTART:20261104T041000Z
+DTSTART:20261104T042000Z
 SUMMARY:23:00 ★★★ [金银] 美国10月ISM非制造业PMI
 UID:data-1178823@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -189.2 万桶
-DTSTART:20261104T042000Z
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 198.7\n前值: -189.2 万桶
+DTSTART:20261104T043000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至10月30日当周EIA原油库存(万桶)
 UID:data-1178824@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA俄克拉荷马州库欣原油库存(万桶)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -62.4 万桶
-DTSTART:20261104T043000Z
+DTSTART:20261104T044000Z
 SUMMARY:23:30 ★★★ [原油] 美国至10月30日当周EIA俄克拉荷马州库欣原油库存(万桶)
 UID:data-1178825@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA汽油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 387 万桶
-DTSTART:20261104T044000Z
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA汽油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: 4\n前值: 387 万桶
+DTSTART:20261104T045000Z
 SUMMARY:23:30 ★ [原油] 美国至10月30日当周EIA汽油库存(万桶)
 UID:data-1178826@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA精炼油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -146.2 万桶
-DTSTART:20261104T045000Z
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA精炼油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: 40\n前值: -146.2 万桶
+DTSTART:20261104T050000Z
 SUMMARY:23:30 ★ [原油] 美国至10月30日当周EIA精炼油库存(万桶)
 UID:data-1178827@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油产量引伸需求数据(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 2063.6 万桶/日
-DTSTART:20261104T050000Z
+DTSTART:20261104T051000Z
 SUMMARY:23:30 ★★  美国至10月30日当周EIA原油产量引伸需求数据(万桶/日)
 UID:data-1178828@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA车用汽油总产量引伸需求数据(万桶/日)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 920.33 万桶/日
-DTSTART:20261104T051000Z
+DTSTART:20261104T052000Z
 SUMMARY:23:30 ★  美国至10月30日当周EIA车用汽油总产量引伸需求数据(万桶/日)
 UID:data-1178829@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA蒸馏燃油产量引伸需求数据(万桶/日)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 552.69 万桶/日
-DTSTART:20261104T052000Z
+DTSTART:20261104T053000Z
 SUMMARY:23:30 ★  美国至10月30日当周EIA蒸馏燃油产量引伸需求数据(万桶/日)
 UID:data-1178830@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA精炼厂设备利用率\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 92.8 %
-DTSTART:20261104T053000Z
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA精炼厂设备利用率\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: 93.1\n前值: 92.8 %
+DTSTART:20261104T054000Z
 SUMMARY:23:30 ★★ [原油] 美国至10月30日当周EIA精炼厂设备利用率
 UID:data-1179890@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA汽油产量(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -50.9 万桶/日
-DTSTART:20261104T054000Z
+DTSTART:20261104T055000Z
 SUMMARY:23:30 ★★ [原油] 美国至10月30日当周EIA汽油产量(万桶/日)
 UID:data-1179891@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油进口(万桶)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -79.6 万桶
-DTSTART:20261104T055000Z
+DTSTART:20261104T060000Z
 SUMMARY:23:30 ★★ [原油] 美国至10月30日当周EIA原油进口(万桶)
 UID:data-1179892@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA新配方汽油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -0.3 万桶
-DTSTART:20261104T060000Z
+DTSTART:20261104T061000Z
 SUMMARY:23:30 ★ [原油] 美国至10月30日当周EIA新配方汽油库存(万桶)
 UID:data-1179893@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA取暖油库存(万桶)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 16.4 万桶
-DTSTART:20261104T061000Z
+DTSTART:20261104T062000Z
 SUMMARY:23:30 ★★ [原油] 美国至10月30日当周EIA取暖油库存(万桶)
 UID:data-1179894@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA成品油进口(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -6.2 万桶/日
-DTSTART:20261104T062000Z
+DTSTART:20261104T063000Z
 SUMMARY:23:30 ★★ [原油] 美国至10月30日当周EIA成品油进口(万桶/日)
 UID:data-1179895@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA精炼油产量(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -7.1 万桶/日
-DTSTART:20261104T063000Z
+DTSTART:20261104T064000Z
 SUMMARY:23:30 ★★ [原油] 美国至10月30日当周EIA精炼油产量(万桶/日)
 UID:data-1179896@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA投产原油量(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -12.3 万桶/日
-DTSTART:20261104T064000Z
+DTSTART:20261104T065000Z
 SUMMARY:23:30 ★★ [原油] 美国至10月30日当周EIA投产原油量(万桶/日)
 UID:data-1179897@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA战略石油储备库存(万桶)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -10 万桶
-DTSTART:20261104T065000Z
+DTSTART:20261104T070000Z
 SUMMARY:23:30 ★★★ [原油] 美国至10月30日当周EIA战略石油储备库存(万桶)
 UID:data-1179898@econ-calendar
 END:VEVENT
@@ -572,9 +452,9 @@ SUMMARY:05:30 ★★ [巴西雷亚尔] 巴西至11月4日Selic利率
 UID:data-1178831@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有1150亿元7天期逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
+DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有1150亿元7天期逆回购、5000亿元三个月期买断式逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
 DTSTART:20261105T004000Z
-SUMMARY:09:20 [大事] ★★ 中国 今日有1150亿元7天期逆回购到期。
+SUMMARY:09:20 [大事] ★★ 中国 今日有1150亿元7天期逆回购、5000亿元三个月期买断...
 UID:event-1189639@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -956,19 +836,19 @@ SUMMARY:09:30 ★★ [大宗商品] 中国10月CPI月率
 UID:data-1189844@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月6日全国重点地区豆油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万吨
+DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月6日全国重点地区豆油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 149.7 万吨
 DTSTART:20261109T011000Z
 SUMMARY:16:00 ★★★ [豆油] 中国至11月6日全国重点地区豆油商业库存(万吨)
 UID:data-1188884@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月6日全国重点地区棕榈油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万吨
+DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月6日全国重点地区棕榈油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 119.74 万吨
 DTSTART:20261109T012000Z
 SUMMARY:16:00 ★★★ [棕榈油] 中国至11月6日全国重点地区棕榈油商业库存(万吨)
 UID:data-1188893@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月9日进口大豆港口库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万吨
+DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月9日进口大豆港口库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 899.62 万吨
 DTSTART:20261109T013000Z
 SUMMARY:16:00 ★★★ [大豆] 中国至11月9日进口大豆港口库存(万吨)
 UID:data-1188902@econ-calendar
@@ -1034,7 +914,7 @@ SUMMARY:00:00 ★★★ [马棕油] 马来西亚11月1-10日SGS马棕油出口�
 UID:data-1188880@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 马来西亚11月1-10日Amspec马棕油出口量(吨)\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 马来西亚11月1-10日Amspec马棕油出口量(吨)\n国家: 马来西亚\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1649495 吨
 DTSTART:20261110T003000Z
 SUMMARY:00:00 ★★★ [马棕油] 马来西亚11月1-10日Amspec马棕油出口量(吨)
 UID:data-1188881@econ-calendar
@@ -1046,19 +926,19 @@ SUMMARY:00:00 ★★★ [马棕油] 马来西亚11月1-10日ITS马棕油出口�
 UID:data-1188882@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至11月5日玉米出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至11月5日玉米出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 884766 吨
 DTSTART:20261110T005000Z
 SUMMARY:00:00 ★★ [美玉米] 美国至11月5日玉米出口检验量(吨)
 UID:data-1188983@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至11月5日小麦出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至11月5日小麦出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 75413 吨
 DTSTART:20261110T010000Z
 SUMMARY:00:00 ★★ [美小麦] 美国至11月5日小麦出口检验量(吨)
 UID:data-1188992@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至11月5日大豆出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 美国至11月5日大豆出口检验量(吨)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 2444828 吨
 DTSTART:20261110T011000Z
 SUMMARY:00:00 ★★ [美大豆] 美国至11月5日大豆出口检验量(吨)
 UID:data-1189001@econ-calendar
@@ -1742,116 +1622,122 @@ SUMMARY:07:00 ★★ [螺纹钢] 中国至11月16日钢银电商全国城市总�
 UID:data-1188912@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 09:30\n内容: 国家统计局公布70个大中城市住宅销售价格月度报告。\n国家: 中国\n人物: --\n重要性: 3星
+DESCRIPTION:【财经大事】\n真实时间: 09:20\n内容: 今日有3000亿元买断式逆回购到期。\n国家: 中国\n人物: --\n重要性: 2星
 DTSTART:20261116T003000Z
+SUMMARY:09:20 [大事] ★★ 中国 今日有3000亿元买断式逆回购到期。
+UID:event-1190037@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【财经大事】\n真实时间: 09:30\n内容: 国家统计局公布70个大中城市住宅销售价格月度报告。\n国家: 中国\n人物: --\n重要性: 3星
+DTSTART:20261116T004000Z
 SUMMARY:09:30 [大事] ★★★ 中国 国家统计局公布70个大中城市住宅销售价格月度报告。
 UID:event-1148672@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【财经大事】\n真实时间: 10:00\n内容: 国新办就国民经济运行情况举行新闻发布会。\n国家: 中国\n人物: --\n重要性: 3星
-DTSTART:20261116T004000Z
+DTSTART:20261116T005000Z
 SUMMARY:10:00 [大事] ★★★ 中国 国新办就国民经济运行情况举行新闻发布会。
 UID:event-1148659@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 10:00\n项目: 中国10月社会消费品零售总额同比\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1.10 %
-DTSTART:20261116T005000Z
+DTSTART:20261116T010000Z
 SUMMARY:10:00 ★★★ [大宗商品] 中国10月社会消费品零售总额同比
 UID:data-1179015@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 10:00\n项目: 中国10月规模以上工业增加值同比\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 5.50 %
-DTSTART:20261116T010000Z
+DTSTART:20261116T011000Z
 SUMMARY:10:00 ★★★ [大宗商品] 中国10月规模以上工业增加值同比
 UID:data-1179016@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 10:00\n项目: 中国10月今年迄今城镇固定资产投资同比\n国家: 中国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -7.20 %
-DTSTART:20261116T011000Z
+DTSTART:20261116T012000Z
 SUMMARY:10:00 ★★ [大宗商品] 中国10月今年迄今城镇固定资产投资同比
 UID:data-1179017@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 10:00\n项目: 中国10月城镇调查失业率\n国家: 中国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 5.20 %
-DTSTART:20261116T012000Z
+DTSTART:20261116T013000Z
 SUMMARY:10:00 ★★ [大宗商品] 中国10月城镇调查失业率
 UID:data-1179018@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 10:00\n项目: 中国10月社会消费品零售总额环比\n国家: 中国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 0.35 %
-DTSTART:20261116T013000Z
+DTSTART:20261116T014000Z
 SUMMARY:10:00 ★ [大宗商品] 中国10月社会消费品零售总额环比
 UID:data-1189879@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 10:00\n项目: 中国10月规模以上工业增加值环比\n国家: 中国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 0.61 %
-DTSTART:20261116T014000Z
+DTSTART:20261116T015000Z
 SUMMARY:10:00 ★★ [大宗商品] 中国10月规模以上工业增加值环比
 UID:data-1189880@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 10:00\n项目: 中国10月城镇固定资产投资环比\n国家: 中国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: 0.07 %
-DTSTART:20261116T015000Z
+DTSTART:20261116T020000Z
 SUMMARY:10:00 ★ [大宗商品] 中国10月城镇固定资产投资环比
 UID:data-1189881@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月13日全国重点地区豆油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万吨
-DTSTART:20261116T020000Z
+DTSTART:20261116T021000Z
 SUMMARY:16:00 ★★★ [豆油] 中国至11月13日全国重点地区豆油商业库存(万吨)
 UID:data-1188885@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月13日全国重点地区棕榈油商业库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万吨
-DTSTART:20261116T021000Z
+DTSTART:20261116T022000Z
 SUMMARY:16:00 ★★★ [棕榈油] 中国至11月13日全国重点地区棕榈油商业库存(万吨)
 UID:data-1188894@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 16:00\n项目: 中国至11月16日进口大豆港口库存(万吨)\n国家: 中国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万吨
-DTSTART:20261116T022000Z
+DTSTART:20261116T023000Z
 SUMMARY:16:00 ★★★ [大豆] 中国至11月16日进口大豆港口库存(万吨)
 UID:data-1188903@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月16日LME铅库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261116T023000Z
+DTSTART:20261116T024000Z
 SUMMARY:17:00 ★ [铅] 英国至11月16日LME铅库存变化值(吨)
 UID:data-1188921@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月16日LME铜库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261116T024000Z
+DTSTART:20261116T025000Z
 SUMMARY:17:00 ★★★ [铜] 英国至11月16日LME铜库存变化值(吨)
 UID:data-1188930@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月16日LME铝合金库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261116T025000Z
+DTSTART:20261116T030000Z
 SUMMARY:17:00 ★ [铝合金] 英国至11月16日LME铝合金库存变化值(吨)
 UID:data-1188939@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月16日LME铝库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261116T030000Z
+DTSTART:20261116T031000Z
 SUMMARY:17:00 ★★★ [铝] 英国至11月16日LME铝库存变化值(吨)
 UID:data-1188948@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月16日LME锌库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261116T031000Z
+DTSTART:20261116T032000Z
 SUMMARY:17:00 ★★ [锌] 英国至11月16日LME锌库存变化值(吨)
 UID:data-1188957@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月16日LME锡库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261116T032000Z
+DTSTART:20261116T033000Z
 SUMMARY:17:00 ★★ [锡] 英国至11月16日LME锡库存变化值(吨)
 UID:data-1188966@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至11月16日LME镍库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
-DTSTART:20261116T033000Z
+DTSTART:20261116T034000Z
 SUMMARY:17:00 ★★★ [镍] 英国至11月16日LME镍库存变化值(吨)
 UID:data-1188975@econ-calendar
 END:VEVENT
@@ -3140,15 +3026,111 @@ SUMMARY:17:00 ★★★ [镍] 英国至12月1日LME镍库存变化值(吨)
 UID:data-1189076@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 22:45\n项目: 美国11月标普全球制造业PMI终值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- --
+DESCRIPTION:【经济数据】\n真实时间: 22:45\n项目: 美国11月标普全球制造业PMI终值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 54.9 --
 DTSTART:20261201T025000Z
 SUMMARY:22:45 ★★★ [金银] 美国11月标普全球制造业PMI终值
 UID:data-1179328@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国11月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- --
+DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国11月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 55.5 --
 DTSTART:20261201T030000Z
 SUMMARY:23:00 ★★★★ [黄金] 美国11月ISM制造业PMI
 UID:data-1179329@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【财经大事】\n真实时间: 00:00\n内容: 找钢网公布全国建材产量和库存\n国家: 中国\n人物: --\n重要性: 2星
+DTSTART:20261202T000000Z
+SUMMARY:00:00 [大事] ★★ 中国 找钢网公布全国建材产量和库存
+UID:event-1189494@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至12月2日LME铅库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DTSTART:20261202T001000Z
+SUMMARY:17:00 ★ [铅] 英国至12月2日LME铅库存变化值(吨)
+UID:data-1189085@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至12月2日LME铜库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DTSTART:20261202T002000Z
+SUMMARY:17:00 ★★★ [铜] 英国至12月2日LME铜库存变化值(吨)
+UID:data-1189094@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至12月2日LME铝合金库存变化值(吨)\n国家: 英国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DTSTART:20261202T003000Z
+SUMMARY:17:00 ★ [铝合金] 英国至12月2日LME铝合金库存变化值(吨)
+UID:data-1189103@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至12月2日LME铝库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DTSTART:20261202T004000Z
+SUMMARY:17:00 ★★★ [铝] 英国至12月2日LME铝库存变化值(吨)
+UID:data-1189112@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至12月2日LME锌库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DTSTART:20261202T005000Z
+SUMMARY:17:00 ★★ [锌] 英国至12月2日LME锌库存变化值(吨)
+UID:data-1189121@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至12月2日LME锡库存变化值(吨)\n国家: 英国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DTSTART:20261202T010000Z
+SUMMARY:17:00 ★★ [锡] 英国至12月2日LME锡库存变化值(吨)
+UID:data-1189130@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 17:00\n项目: 英国至12月2日LME镍库存变化值(吨)\n国家: 英国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 吨
+DTSTART:20261202T011000Z
+SUMMARY:17:00 ★★★ [镍] 英国至12月2日LME镍库存变化值(吨)
+UID:data-1189139@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国11月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261202T012000Z
+SUMMARY:21:15 ★★★★ [黄金] 美国11月ADP就业人数(万人)
+UID:data-1179346@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261202T013000Z
+SUMMARY:23:30 ★★★★ [原油] 美国至11月27日当周EIA原油库存(万桶)
+UID:data-1179347@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA俄克拉荷马州库欣原油库存(万桶)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261202T014000Z
+SUMMARY:23:30 ★★★ [原油] 美国至11月27日当周EIA俄克拉荷马州库欣原油库存(万桶)
+UID:data-1179348@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA汽油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261202T015000Z
+SUMMARY:23:30 ★ [原油] 美国至11月27日当周EIA汽油库存(万桶)
+UID:data-1179349@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA精炼油库存(万桶)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DTSTART:20261202T020000Z
+SUMMARY:23:30 ★ [原油] 美国至11月27日当周EIA精炼油库存(万桶)
+UID:data-1179350@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA原油产量引伸需求数据(万桶/日)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: -- 万桶/日
+DTSTART:20261202T021000Z
+SUMMARY:23:30 ★★  美国至11月27日当周EIA原油产量引伸需求数据(万桶/日)
+UID:data-1179351@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA车用汽油总产量引伸需求数据(万桶/日)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 万桶/日
+DTSTART:20261202T022000Z
+SUMMARY:23:30 ★  美国至11月27日当周EIA车用汽油总产量引伸需求数据(万桶/日)
+UID:data-1179352@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA蒸馏燃油产量引伸需求数据(万桶/日)\n国家: 美国\n重要性: 1星\n----------------\n今值: --\n预测: --\n前值: -- 万桶/日
+DTSTART:20261202T023000Z
+SUMMARY:23:30 ★  美国至11月27日当周EIA蒸馏燃油产量引伸需求数据(万桶/日)
+UID:data-1179353@econ-calendar
 END:VEVENT
 END:VCALENDAR
