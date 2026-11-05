@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国10月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 6.9\n前值: 9 万人
-DTSTART:20261104T000000Z
-SUMMARY:21:15 ★★★★ [黄金] 美国10月ADP就业人数(万人)
-UID:data-1178816@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至10月30日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 198.7\n前值: -189.2 万桶
-DTSTART:20261104T001000Z
-SUMMARY:23:30 ★★★★ [原油] 美国至10月30日当周EIA原油库存(万桶)
-UID:data-1178824@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至10月31日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.6\n前值: 19.4 万人
 DTSTART:20261105T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至10月31日当周初请失业金人数(万人)
@@ -56,7 +44,7 @@ SUMMARY:00:00 ★★★★ [大宗商品] 中国10月全社会用电量同比
 UID:data-1185428@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至11月6日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至11月6日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 87.7\n前值: -86.5 万桶
 DTSTART:20261113T001000Z
 SUMMARY:01:00 ★★★★ [原油] 美国至11月6日当周EIA原油库存(万桶)
 UID:data-1178968@econ-calendar
@@ -122,7 +110,7 @@ SUMMARY:23:00 ★★★★ [黄金] 美国11月ISM制造业PMI
 UID:data-1179329@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国11月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国11月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 8.6 万人
 DTSTART:20261202T000000Z
 SUMMARY:21:15 ★★★★ [黄金] 美国11月ADP就业人数(万人)
 UID:data-1179346@econ-calendar
@@ -138,5 +126,17 @@ DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月28日
 DTSTART:20261203T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月28日当周初请失业金人数(万人)
 UID:data-1179390@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261204T000000Z
+SUMMARY:21:30 ★★★★★ [金银] 美国11月季调后非农就业人口(万人)
+UID:data-1179414@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261204T001000Z
+SUMMARY:21:30 ★★★★★ [金银] 美国11月失业率
+UID:data-1179425@econ-calendar
 END:VEVENT
 END:VCALENDAR
