@@ -2,12 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至10月31日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.6\n前值: 19.4 万人
-DTSTART:20261105T000000Z
-SUMMARY:21:30 ★★★★ [黄金] 美国至10月31日当周初请失业金人数(万人)
-UID:data-1178855@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 6.5\n前值: 2.9 万人
 DTSTART:20261106T000000Z
 SUMMARY:21:30 ★★★★★ [金银] 美国10月季调后非农就业人口(万人)
@@ -26,13 +20,13 @@ SUMMARY:21:15 ★★★ [黄金] 美国至10月24日当周ADP就业人数周度�
 UID:data-1178920@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月季调后CPI月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 0.3\n前值: 0.60 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月季调后CPI月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 0.30\n前值: 0.60 %
 DTSTART:20261110T001000Z
 SUMMARY:21:30 ★★★★ [金银] 美国10月季调后CPI月率
 UID:data-1178921@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月7日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月7日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.6\n前值: 18.9 万人
 DTSTART:20261112T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月7日当周初请失业金人数(万人)
 UID:data-1178962@econ-calendar
@@ -44,7 +38,7 @@ SUMMARY:00:00 ★★★★ [大宗商品] 中国10月全社会用电量同比
 UID:data-1185428@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至11月6日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 87.7\n前值: -86.5 万桶
+DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至11月6日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -86.5 万桶
 DTSTART:20261113T001000Z
 SUMMARY:01:00 ★★★★ [原油] 美国至11月6日当周EIA原油库存(万桶)
 UID:data-1178968@econ-calendar
