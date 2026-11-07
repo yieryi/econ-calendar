@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 6.5\n前值: 2.9 万人
-DTSTART:20261106T000000Z
-SUMMARY:21:30 ★★★★★ [金银] 美国10月季调后非农就业人口(万人)
-UID:data-1178874@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 4.20\n前值: 4.20 %
-DTSTART:20261106T001000Z
-SUMMARY:21:30 ★★★★★ [金银] 美国10月失业率
-UID:data-1178885@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国至10月24日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 1.675 万人
 DTSTART:20261110T000000Z
 SUMMARY:21:15 ★★★ [黄金] 美国至10月24日当周ADP就业人数周度变动(万人)
@@ -26,7 +14,13 @@ SUMMARY:21:30 ★★★★ [金银] 美国10月季调后CPI月率
 UID:data-1178921@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月7日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.6\n前值: 18.9 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月未季调CPI年率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 3.9\n前值: 3.7 %
+DTSTART:20261110T002000Z
+SUMMARY:21:30 ★★★★★ [金银] 美国10月未季调CPI年率
+UID:data-1190167@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月7日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.5\n前值: 18.9 万人
 DTSTART:20261112T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月7日当周初请失业金人数(万人)
 UID:data-1178962@econ-calendar
@@ -122,13 +116,13 @@ SUMMARY:21:30 ★★★★ [黄金] 美国至11月28日当周初请失业金人�
 UID:data-1179390@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 16.5 万人
 DTSTART:20261204T000000Z
 SUMMARY:21:30 ★★★★★ [金银] 美国11月季调后非农就业人口(万人)
 UID:data-1179414@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: -- %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 4.1 %
 DTSTART:20261204T001000Z
 SUMMARY:21:30 ★★★★★ [金银] 美国11月失业率
 UID:data-1179425@econ-calendar
