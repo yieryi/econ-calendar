@@ -2,19 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月7日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.5\n前值: 18.9 万人
-DTSTART:20261112T000000Z
-SUMMARY:21:30 ★★★★ [黄金] 美国至11月7日当周初请失业金人数(万人)
-UID:data-1178962@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国10月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 1.2 %
 DTSTART:20261113T000000Z
 SUMMARY:00:00 ★★★★ [大宗商品] 中国10月全社会用电量同比
 UID:data-1185428@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至11月6日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: -110.9\n前值: -86.5 万桶
+DESCRIPTION:【经济数据】\n真实时间: 01:00\n项目: 美国至11月6日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: 465.7\n预测: -110.9\n前值: -86.5 万桶
 DTSTART:20261113T001000Z
 SUMMARY:01:00 ★★★★ [原油] 美国至11月6日当周EIA原油库存(万桶)
 UID:data-1178968@econ-calendar
@@ -32,7 +26,7 @@ SUMMARY:21:30 ★★★★ [黄金] 美国10月零售销售月率
 UID:data-1179052@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月13日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月13日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 465.7 万桶
 DTSTART:20261118T000000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至11月13日当周EIA原油库存(万桶)
 UID:data-1179089@econ-calendar
@@ -44,7 +38,7 @@ SUMMARY:03:00 [大事] ★★★★ 美国 美联储公布货币政策会议纪�
 UID:event-1148310@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月14日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月14日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 20 万人
 DTSTART:20261119T001000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月14日当周初请失业金人数(万人)
 UID:data-1179114@econ-calendar
