@@ -8,7 +8,7 @@ SUMMARY:21:15 ★★★ [黄金] 美国至10月31日当周ADP就业人数周度�
 UID:data-1179046@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月零售销售月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 0\n前值: 0.80 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月零售销售月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 0.2\n前值: 0.80 %
 DTSTART:20261117T001000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国10月零售销售月率
 UID:data-1179052@econ-calendar
@@ -26,7 +26,7 @@ SUMMARY:03:00 [大事] ★★★★ 美国 美联储公布货币政策会议纪�
 UID:event-1148310@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月14日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 20 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月14日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.6\n前值: 20 万人
 DTSTART:20261119T001000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月14日当周初请失业金人数(万人)
 UID:data-1179114@econ-calendar
@@ -132,5 +132,11 @@ DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至12月5日�
 DTSTART:20261210T004000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至12月5日当周初请失业金人数(万人)
 UID:data-1179534@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国11月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- %
+DTSTART:20261214T000000Z
+SUMMARY:00:00 ★★★★ [大宗商品] 中国11月全社会用电量同比
+UID:data-1185431@econ-calendar
 END:VEVENT
 END:VCALENDAR
