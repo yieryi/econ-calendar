@@ -3,21 +3,9 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国10月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 1.2 %
-DTSTART:20261119T000000Z
+DTSTART:20261120T000000Z
 SUMMARY:00:00 ★★★★ [大宗商品] 中国10月全社会用电量同比
 UID:data-1185428@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【财经大事】\n真实时间: 03:00\n内容: 美联储公布货币政策会议纪要。\n国家: 美国\n人物: 美联储\n重要性: 4星
-DTSTART:20261119T001000Z
-SUMMARY:03:00 [大事] ★★★★ 美国 美联储公布货币政策会议纪要。
-UID:event-1148310@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月14日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.7\n前值: 20 万人
-DTSTART:20261119T002000Z
-SUMMARY:21:30 ★★★★ [黄金] 美国至11月14日当周初请失业金人数(万人)
-UID:data-1179114@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国至11月7日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 2.375 万人
@@ -26,19 +14,19 @@ SUMMARY:21:15 ★★★ [黄金] 美国至11月7日当周ADP就业人数周度�
 UID:data-1179185@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 3.2\n前值: 3.10 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 3.20\n前值: 3.10 %
 DTSTART:20261125T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国10月核心PCE物价指数年率
 UID:data-1179202@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月21日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月21日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.7\n前值: 20.3 万人
 DTSTART:20261125T001000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月21日当周初请失业金人数(万人)
 UID:data-1179207@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月20日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 5.8\n前值: 338 万桶
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月20日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 338 万桶
 DTSTART:20261125T002000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至11月20日当周EIA原油库存(万桶)
 UID:data-1179215@econ-calendar
@@ -74,7 +62,7 @@ SUMMARY:21:30 ★★★★★ [金银] 美国11月季调后非农就业人口(�
 UID:data-1179414@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 4.1 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 4.10 %
 DTSTART:20261204T001000Z
 SUMMARY:21:30 ★★★★★ [金银] 美国11月失业率
 UID:data-1179425@econ-calendar
@@ -92,19 +80,19 @@ SUMMARY:23:30 ★★★★ [原油] 美国至12月4日当周EIA原油库存(万�
 UID:data-1179507@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 03:00\n项目: 美国至12月9日美联储利率决定(上限)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 4 %
+DESCRIPTION:【经济数据】\n真实时间: 03:00\n项目: 美国至12月9日美联储利率决定(上限)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 4.25\n前值: 4.00 %
 DTSTART:20261210T000000Z
 SUMMARY:03:00 ★★★★★ [黄金] 美国至12月9日美联储利率决定(上限)
 UID:data-1179514@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 03:00\n项目: 美国至12月9日美联储利率决定(下限)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: --\n前值: 3.75 %
+DESCRIPTION:【经济数据】\n真实时间: 03:00\n项目: 美国至12月9日美联储利率决定(下限)\n国家: 美国\n重要性: 2星\n----------------\n今值: --\n预测: 4.00\n前值: 3.75 %
 DTSTART:20261210T001000Z
 SUMMARY:03:00 ★★ [黄金] 美国至12月9日美联储利率决定(下限)
 UID:data-1179515@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后CPI月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 0.4 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后CPI月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 0.40 %
 DTSTART:20261210T002000Z
 SUMMARY:21:30 ★★★★ [金银] 美国11月季调后CPI月率
 UID:data-1179529@econ-calendar
@@ -134,7 +122,7 @@ SUMMARY:21:15 ★★★ [黄金] 美国至11月28日当周ADP就业人数周度�
 UID:data-1179604@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月零售销售月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 0.2 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月零售销售月率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 0.20 %
 DTSTART:20261216T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国11月零售销售月率
 UID:data-1179664@econ-calendar
