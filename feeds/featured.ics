@@ -2,6 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 00:00\n项目: 中国10月全社会用电量同比\n国家: 中国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 1.2 %
+DTSTART:20261123T000000Z
+SUMMARY:00:00 ★★★★ [大宗商品] 中国10月全社会用电量同比
+UID:data-1185428@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国至11月7日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 2.375 万人
 DTSTART:20261124T000000Z
 SUMMARY:21:15 ★★★ [黄金] 美国至11月7日当周ADP就业人数周度变动(万人)
@@ -50,7 +56,7 @@ SUMMARY:21:30 ★★★★ [黄金] 美国至11月28日当周初请失业金人�
 UID:data-1179390@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 16.5 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 9.3\n前值: 16.5 万人
 DTSTART:20261204T000000Z
 SUMMARY:21:30 ★★★★★ [金银] 美国11月季调后非农就业人口(万人)
 UID:data-1179414@econ-calendar
@@ -132,5 +138,11 @@ DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至12月12日
 DTSTART:20261217T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至12月12日当周初请失业金人数(万人)
 UID:data-1179711@econ-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国至12月5日当周ADP就业人数周度变动(万人)\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DTSTART:20261222T000000Z
+SUMMARY:21:15 ★★★ [黄金] 美国至12月5日当周ADP就业人数周度变动(万人)
+UID:data-1179774@econ-calendar
 END:VEVENT
 END:VCALENDAR
