@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国10月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 3.20\n前值: 3.10 %
-DTSTART:20261125T000000Z
-SUMMARY:21:30 ★★★★ [黄金] 美国10月核心PCE物价指数年率
-UID:data-1179202@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月21日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 20\n前值: 20.3 万人
-DTSTART:20261125T001000Z
-SUMMARY:21:30 ★★★★ [黄金] 美国至11月21日当周初请失业金人数(万人)
-UID:data-1179207@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月20日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 150.6\n前值: 338 万桶
-DTSTART:20261125T002000Z
-SUMMARY:23:30 ★★★★ [原油] 美国至11月20日当周EIA原油库存(万桶)
-UID:data-1179215@econ-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国11月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 55.5 --
 DTSTART:20261201T000000Z
 SUMMARY:23:00 ★★★★ [黄金] 美国11月ISM制造业PMI
@@ -32,13 +14,13 @@ SUMMARY:21:15 ★★★★ [黄金] 美国11月ADP就业人数(万人)
 UID:data-1179346@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万桶
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 150.6\n前值: 110.9 万桶
 DTSTART:20261202T001000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至11月27日当周EIA原油库存(万桶)
 UID:data-1179347@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月28日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月28日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 20\n前值: 18.9 万人
 DTSTART:20261203T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月28日当周初请失业金人数(万人)
 UID:data-1179390@econ-calendar
@@ -134,7 +116,7 @@ SUMMARY:21:15 ★★★ [黄金] 美国至12月5日当周ADP就业人数周度�
 UID:data-1179774@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: -- %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 3.3 %
 DTSTART:20261223T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国11月核心PCE物价指数年率
 UID:data-1179796@econ-calendar
