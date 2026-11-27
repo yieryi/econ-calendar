@@ -2,37 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国11月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 55.5 --
+DESCRIPTION:【经济数据】\n真实时间: 23:00\n项目: 美国11月ISM制造业PMI\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 55\n前值: 55.5 --
 DTSTART:20261201T000000Z
 SUMMARY:23:00 ★★★★ [黄金] 美国11月ISM制造业PMI
 UID:data-1179329@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国11月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 8.6 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:15\n项目: 美国11月ADP就业人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 8\n前值: 8.6 万人
 DTSTART:20261202T000000Z
 SUMMARY:21:15 ★★★★ [黄金] 美国11月ADP就业人数(万人)
 UID:data-1179346@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 150.6\n前值: 110.9 万桶
+DESCRIPTION:【经济数据】\n真实时间: 23:30\n项目: 美国至11月27日当周EIA原油库存(万桶)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 110.9 万桶
 DTSTART:20261202T001000Z
 SUMMARY:23:30 ★★★★ [原油] 美国至11月27日当周EIA原油库存(万桶)
 UID:data-1179347@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月28日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 20\n前值: 18.9 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国至11月28日当周初请失业金人数(万人)\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: 19.3\n前值: 18.9 万人
 DTSTART:20261203T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国至11月28日当周初请失业金人数(万人)
 UID:data-1179390@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 9.3\n前值: 16.5 万人
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月季调后非农就业人口(万人)\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 9\n前值: 16.5 万人
 DTSTART:20261204T000000Z
 SUMMARY:21:30 ★★★★★ [金银] 美国11月季调后非农就业人口(万人)
 UID:data-1179414@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: --\n前值: 4.10 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月失业率\n国家: 美国\n重要性: 5星\n----------------\n今值: --\n预测: 4.10\n前值: 4.10 %
 DTSTART:20261204T001000Z
 SUMMARY:21:30 ★★★★★ [金银] 美国11月失业率
 UID:data-1179425@econ-calendar
@@ -116,13 +116,13 @@ SUMMARY:21:15 ★★★ [黄金] 美国至12月5日当周ADP就业人数周度�
 UID:data-1179774@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 3.3 %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国11月核心PCE物价指数年率\n国家: 美国\n重要性: 4星\n----------------\n今值: --\n预测: --\n前值: 3.30 %
 DTSTART:20261223T000000Z
 SUMMARY:21:30 ★★★★ [黄金] 美国11月核心PCE物价指数年率
 UID:data-1179796@econ-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国第三季度实际个人消费支出季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: -- %
+DESCRIPTION:【经济数据】\n真实时间: 21:30\n项目: 美国第三季度实际个人消费支出季率初值\n国家: 美国\n重要性: 3星\n----------------\n今值: --\n预测: --\n前值: 4.20 %
 DTSTART:20261223T001000Z
 SUMMARY:21:30 ★★★ [黄金] 美国第三季度实际个人消费支出季率初值
 UID:data-1179798@econ-calendar
